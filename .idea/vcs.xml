@@ -4,5 +4,6 @@
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/Google-Maps-Reto-" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/RetoGoogleMaps" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/RetoGoogleMaps-DanielCerquera" vcs="Git" />
   </component>
 </project>
