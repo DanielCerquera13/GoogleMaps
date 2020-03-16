@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">GoogleMapsReto</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_map">Map</string>
+    <string name="title_activity_map_controller">Map</string>
+    <string name="title_activity_location_provider">Map</string>
+    <string name="title_activity_maps2">Map</string>
+</resources>

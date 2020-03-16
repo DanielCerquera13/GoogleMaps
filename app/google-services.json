@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "738649954455",
+    "firebase_url": "https://mapsreto.firebaseio.com",
+    "project_id": "mapsreto",
+    "storage_bucket": "mapsreto.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:738649954455:android:5c3f39226d4938f7d5b1d2",
+        "android_client_info": {
+          "package_name": "com.example.googlemapsreto"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "738649954455-mqbmkvh8jashrsdbugu6knssladfg2ta.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.googlemapsreto",
+            "certificate_hash": "cefb34f9e9563af45ce411379891c819d02dc197"
+          }
+        },
+        {
+          "client_id": "738649954455-4trpf5utohkc8b8nd5duof0mrp8cfb5n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAM4J0nlS87vphFkSM-GWxLs4JYngjSA6U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "738649954455-4trpf5utohkc8b8nd5duof0mrp8cfb5n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
